@@ -3,10 +3,12 @@
 
 samarth kulshrestha
 
+![release version](https://img.shields.io/github/v/release/samarthkulshrestha/lego?color=%23a039fa&include_prereleases&style=for-the-badge)
 ![code quality](https://img.shields.io/codefactor/grade/github/samarthkulshrestha/lego/main?style=for-the-badge)
 ![top language](https://img.shields.io/github/languages/top/samarthkulshrestha/lego?color=%234877f7&style=for-the-badge)
+<br>
 ![license](https://img.shields.io/github/license/samarthkulshrestha/lego?color=%23f2e85a&style=for-the-badge)
-![repo size](https://img.shields.io/github/repo-size/samarthkulshrestha/lego?color=%2346d4a0&style=for-the-badge)
+![release date](https://img.shields.io/github/release-date-pre/samarthkulshrestha/lego?color=%23f76ad4&style=for-the-badge)
 <br/><br/><br/>
 ![lego logo](assets/lego.png)
 <br/><br>
